@@ -30,7 +30,7 @@ Adding of citizens to electoral roll will be done without any thrid party interv
 
 A blockchain can be used to maintain a secure and transparent electoral roll. The proposed solution is a consortium blockchain, for which the consensus participants will be various departments of the government that can trigger registration, such as the [UIDAI](https://uidai.gov.in/) for Aadhar cards, or RTOs for licenses. Therefore whenever one of these agencies detects that a citizen has turned 18, it will trigger the citizen's registration on the electoral roll. Each voting station can also be made a node in the permissioned blockchain to enable the system of Same Day Registration.
 
-The end goal is to reduce the hoops a citizen has to go through to vote while still maintaining an electoral role, and a blockchain is the perfect way to accomplish this goal efficiently, securely, and in a transparent fashion.
+The end goal is to reduce the hoops a citizen has to go through to vote while still maintaining an electoral roll, and a blockchain is the perfect way to accomplish this goal efficiently, securely, and in a transparent fashion.
 
 
 ### Contact details:
