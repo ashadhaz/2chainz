@@ -9,7 +9,7 @@
 
 ### Idea
 
-The core principle of a democracy, that an election seeks to fulfil is that _all_  the citizens of the country have a voice in how it is governed. Given that elections need to be secure against acts of malicious intent, the process is extremely complicated. One essential part of this process is voter registration. 
+The core principle of a democracy that an election seeks to fulfil is that _all_  the citizens of a country have a voice in how it is governed. Given that elections need to be secure against acts of malicious intent, the voting process is extremely complicated. One essential part of this process is voter registration. 
 
 ### Background: Voter registration
 
