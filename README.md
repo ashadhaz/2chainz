@@ -1,5 +1,14 @@
 # Streamlining Voter Registration
 
+
+### Team Members:
+1) Amal Desai
+2) Asadali Hazariwala
+
+<hr />
+
+### Idea
+
 The core principle of a democracy that an election seeks to fulfil is that _all_  the citizens of the country have a voice in how it is governed. Given that elections need to be secure against acts of malicious intent, the process is extremely complicated. One essential part of this process is voter registration. 
 
 ### Background: Voter registration
@@ -17,6 +26,13 @@ We plan to alter the registration process such that changes to the electoral rol
 
 The first two of the above will trigger automatic registration of the citizen onto the electoral roll. The third action will trigger what is known as same day registration. 
 
-A blockchain can be used to maintain a secure and transparent electoral roll. The proposed solution is a consortium blockchain, for which the consensus participants will be various departments of the government that can trigger registration, such as the UIAI for Aadhar cards, or RTOs for licenses. Therefore whenever one of these agencies detects that a citizen has turned 18, they can trigger the citizen's registration on the electoral roll. Each voting station can also be made a node in the permissioned blockchain to enable the system of Same Day Registration.
+Adding of citizens to electoral roll will be done without any thrid party intervention which will make it robust and secure. The data linked to that particular citizen will be added to the blockchain corresponding to the data present in the proof of citizenship used for adding the citizen to the electoral roll.
+
+A blockchain can be used to maintain a secure and transparent electoral roll. The proposed solution is a consortium blockchain, for which the consensus participants will be various departments of the government that can trigger registration, such as the UIDAI for Aadhar cards, or RTOs for licenses. Therefore whenever one of these agencies detects that a citizen has turned 18, it will trigger the citizen's registration on the electoral roll. Each voting station can also be made a node in the permissioned blockchain to enable the system of Same Day Registration.
 
 The end goal is to reduce the hoops a citizen has to go through to vote while still maintaining an electoral role, and a blockchain is the perfect way to accomplish this goal efficiently, securely, and in a transparent fashion.
+
+
+### Contact details:
+1) Amal Desai : f20171919@goa.bits-pilani.ac.in
+2) Asadali Hazariwala : f20170774@goa.bits-pilani.ac.in
